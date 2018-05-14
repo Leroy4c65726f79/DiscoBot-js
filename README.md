@@ -1,2 +1,2 @@
 # DiscoBot-js
-Füüny projeect
+Discord Bot version 01. for discord
